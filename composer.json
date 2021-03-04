@@ -36,7 +36,7 @@
         "illuminate/http": "^8",
         "illuminate/support": "^8",
         "firebase/php-jwt": "^5.0",
-        "guzzlehttp/guzzle": "7",
+        "guzzlehttp/guzzle": "^7",
         "phpseclib/phpseclib": "^2.0"
     },
     "require-dev": {
